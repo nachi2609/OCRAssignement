@@ -1,6 +1,10 @@
 # OCRAssignement
 OpenOCRcorrect(With Text-Bold/Unbold feature)
 
+#Open source project starter code
+
+OpenOCR model for sanskrit digitization
+
 Text Bold/Unbold feature is been implemented.
-Please use "Data/.../Sanskrit-1/" Folder from your computer,I couldn't include it due to github size restictions.
-Please follow the instructions given in the instructions file:
+
+Please follow the instructions given in the instructions file
